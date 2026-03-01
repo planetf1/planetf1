@@ -7,13 +7,13 @@ I focus on generative programming—engineering the tools and frameworks that br
 With a background spanning from core ISDN development and kernel modifications to modern quantum infrastructure, my approach is rooted in understanding the full business context before writing a line of code. When a complex problem demands it, I am a full-stack troubleshooter—digging from the UI down to the OS to find the true root cause.
 
 ### 🔭 Current Focus
-* **Agentic Frameworks:** Driving core backend engineering for the open-source **BeeAI** framework to ensure reliable, enterprise-grade execution.
+* **Agentic Frameworks & Mellea:** Driving core backend engineering for the [Mellea](https://github.com/generative-computing/mellea) library and the open-source **BeeAI** framework to ensure reliable, enterprise-grade generative program execution.
 * **AI Tooling:** Exploring and integrating models and frameworks across the ecosystem, including OpenAI, Amazon Bedrock, Google Vertex AI, Grok, and crewAI.
 * **Systems Engineering:** Developing primarily in Python and Java, while actively expanding into Go and Rust. 
 
 ### 🌱 Open Source Leadership
-* **Egeria:** Co-founder and former core maintainer of the Linux Foundation's open metadata project.
-* **PQCA:** Technical Steering Committee (TSC) Lead for the Post-Quantum Cryptography Association, guiding quantum-safe implementations.
+* **Egeria:** Co-founder and former core maintainer of the Linux Foundation's [ODPi Egeria](https://github.com/odpi/egeria) open metadata project.
+* **PQCA:** Technical Steering Committee (TSC) Lead for the [Post-Quantum Cryptography Alliance (PQCA)](https://github.com/PQCA) and the PQ Code Package, guiding quantum-safe implementations.
 
 ### 💻 Tech Stack & Environment
 * **Languages:** Python, Java, C, C++, Go, Rust
